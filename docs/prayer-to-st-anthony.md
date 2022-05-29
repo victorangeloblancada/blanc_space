@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Prayer to Saint Anthony"
-date:   2022-05-27 23:13:53 +0800
-categories: prayer
 ---
 O wonderful St. Anthony, glorious on account of the fame of your miracles, and through the condescension of Jesus in coming in the form of a little child to rest in your arms, obtain for me of His bounty the grace which I ardently desire from the depths of my heart. (State your intention)
 
